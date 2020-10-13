@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-collegepicks-dev-191251-authRole",
+      "UnauthRoleArn": "arn:aws:iam::894311144926:role/amplify-collegepicks-dev-191251-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::894311144926:role/amplify-collegepicks-dev-191251-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-collegepicks-dev-191251-deployment",
+      "UnauthRoleName": "amplify-collegepicks-dev-191251-unauthRole",
+      "StackName": "amplify-collegepicks-dev-191251",
+      "StackId": "arn:aws:cloudformation:us-east-1:894311144926:stack/amplify-collegepicks-dev-191251/9e090f00-0da9-11eb-9427-0a2de5ab949d",
+      "AmplifyAppId": "d2hulxqf2hvfab"
+    },
+    "categories": {
+      "auth": {
+        "collegepicksdc34b025": {}
+      }
+    }
+  }
+}

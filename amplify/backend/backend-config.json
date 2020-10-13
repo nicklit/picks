@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "collegepicksdc34b025": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
